@@ -1,10 +1,14 @@
 # Maven Market: Multi-National Sales & Performance Analytics
 
 ![Dashboard Preview](Maven_market_report_dashboard.png)
->*"**Note:** Above is a preview of the main interactive dashboard. Download the **[Maven_Market_Project_Analytics.pbix](Maven_Market_Project_Analytics.pbix)** file to explore fully."*
+> *"**Note:** Above is a preview of the main interactive dashboard. Download the **[Maven_Market_Project_Analytics.pbix](Maven_Market_Project_Analytics.pbix)** file to explore fully."*
 
 ---
+## Project Overview
+This project is an end-to-end business intelligence solution. The goal was to transform raw transactional data into a business-ready dashboard that enables leadership to monitor performance, profitability, returns, and growth trends.
 
+> *"**Note:** For a complete list of the DAX formulas used in this project (including Time Intelligence), please see the [DAX Documentation](Maven_Market_DAX_Measures.md)."*
+---
 ## Business Problem
 Maven Market, a multi-national grocery chain with locations in Canada, Mexico, and the United States, faced challenges in consolidating sales data from disparate CSV files.
 
@@ -14,9 +18,6 @@ Maven Market, a multi-national grocery chain with locations in Canada, Mexico, a
 * **Profitability:** Difficulty in tracking profit margins per product brand due to disconnected cost and revenue data sources.
 
 ---
-
-## Project Overview
-This project is an end-to-end business intelligence solution. The goal was to transform raw transactional data into a business-ready dashboard that enables leadership to monitor performance, profitability, returns, and growth trends.
 
 ## Key Performance Metrics
 
